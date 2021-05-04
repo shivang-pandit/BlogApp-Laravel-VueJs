@@ -35,7 +35,7 @@
 							<div class="col-12 col-md-3 col-lg-3">
 								<div class="me_prfl_left">
 									<div class="me_prfl_left_top_img">
-										<img src="images/about_me.JPG" alt="image">
+										<img src="images/avtar.png" alt="image">
 									</div>
 									<div class="me_cntct">
 										<h4 class="me_cntct_title">Contact Info</h4>
@@ -45,7 +45,7 @@
 											</li>
 											<li class="me_phn">
 												<i class="fa fa-phone"></i>
-												Phone: 777 800 1552
+												Phone: 777 777 7777
 											</li>
 										</ul>
 									</div>

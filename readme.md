@@ -12,10 +12,11 @@ This web application built in Laravel (backend) and vue (frontend) with expressi
 ## Installation steps
 
 - Clone repository.
-- Run command - composer install
-- Run command - npm install
-- Run command - php artisan db:seed
+- Run command - "composer install"
+- Run command - "npm install"
 - Rename .env.example to .env and configure it with your database
+- Run command - "php artisan migrate"
+- Run command - "php artisan db:seed"
 
 ## Admin login details
 - Admin path: {{Domain}}/admin
